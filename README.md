@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmad-Rzx
-- 👀 I’m interested in ML and Game Development 
+- 👀 I’m interested in ML.
 - 🌱 I’m currently learning Python.
 
 <!---
