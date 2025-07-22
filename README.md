@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ahmad-Rzx
-- I do programming, I'm not good at it, but I try my best.
+- I learn programming.
+- The only thing I know is that I know nothing.
 
 <!---
 Ahmad-Rzx/Ahmad-Rzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
