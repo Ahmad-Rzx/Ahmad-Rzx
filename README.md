@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ahmad-Rzx
-- 👀 I’m interested in ML.
-- 🌱 I’m currently learning Python.
+- I do programming, I'm not good at it, but I try my best.
 
 <!---
 Ahmad-Rzx/Ahmad-Rzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
