@@ -171,7 +171,7 @@ class LabMember:
 ║                            ║
 ╠════════════════════════════╣
 ║                            ║
-║  ❝ But who am I without   ║
+║  ❝ But who am I without    ║
 ║    nostalgia and           ║
 ║    melancholy ❞            ║
 ║                            ║
