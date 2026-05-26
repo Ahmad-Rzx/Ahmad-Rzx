@@ -1,0 +1,156 @@
+<svg width="747" height="216" viewBox="0 0 747 216" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Divergence Meter: 0.571046">
+  <!-- Generated 2026-05-26T16:20:36.774181+00:00 by Future Gadget Lab -->
+  <!-- TriggersTools.SteinsGate: https://github.com/trigger-death/TriggersTools.SteinsGate -->
+
+  <defs>
+    <!-- Warm nixie glow: two-pass blur + merge -->
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"
+            color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Small sharp glow for dot indicator -->
+    <filter id="dot-glow" x="-60%" y="-60%" width="220%" height="220%"
+            color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Glass tube interior: warm dark radial gradient -->
+    <radialGradient id="glass" cx="36%" cy="26%" r="80%" fx="32%" fy="22%">
+      <stop offset="0%"   stop-color="#2e1600"/>
+      <stop offset="40%"  stop-color="#170a00"/>
+      <stop offset="100%" stop-color="#080400"/>
+    </radialGradient>
+
+    <!-- Subtle left-edge shine (like light refracting through glass) -->
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.11"/>
+      <stop offset="22%"  stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.00"/>
+    </linearGradient>
+
+    <!-- Ambient orange haze filling the tube -->
+    <linearGradient id="haze" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#ff6200" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#cc3300" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Device casing -->
+  <rect width="747" height="216" rx="12" ry="12" fill="#060401"/>
+  <rect x="1" y="1" width="745" height="214" rx="11" ry="11" fill="none" stroke="#4a2200" stroke-width="1.5" opacity="0.8"/>
+  <rect x="3" y="3" width="741" height="210" rx="9" ry="9" fill="none" stroke="#2a1200" stroke-width="1" opacity="0.5"/>
+
+  <!-- Top label -->
+  <text x="373" y="17" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="7.5" fill="#9a5500" letter-spacing="3.5" opacity="0.85">DIVERGENCE  METER</text>
+
+  <!-- Nixie tubes -->
+  <!-- Tube 0: '0' -->
+  <rect x="30" y="32" width="78" height="152" rx="6" ry="6" fill="url(#glass)" stroke="#5a2d00" stroke-width="1.6"/>
+  <rect x="33" y="35" width="72" height="146" rx="4" ry="4" fill="url(#haze)"/>
+  <rect x="34" y="36" width="26" height="144" rx="3" ry="3" fill="url(#shine)"/>
+  <text x="69" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff5500" opacity="0.30" filter="url(#glow)">0</text>
+  <text x="69" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff8c00" opacity="0.95">0</text>
+  <text x="69" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ffd080" opacity="0.38">0</text>
+  <circle cx="51" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="63" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="75" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="87" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+
+  <!-- Tube 1: '.' -->
+  <rect x="117" y="32" width="78" height="152" rx="6" ry="6" fill="url(#glass)" stroke="#5a2d00" stroke-width="1.6"/>
+  <rect x="120" y="35" width="72" height="146" rx="4" ry="4" fill="url(#haze)"/>
+  <rect x="121" y="36" width="26" height="144" rx="3" ry="3" fill="url(#shine)"/>
+  <circle cx="156" cy="141" r="14" fill="#ff5500" opacity="0.20" filter="url(#dot-glow)"/>
+  <circle cx="156" cy="141" r="9"  fill="#ff8c00" opacity="0.95" filter="url(#dot-glow)"/>
+  <circle cx="156" cy="141" r="5"  fill="#ffd080" opacity="0.85"/>
+  <circle cx="138" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="150" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="162" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="174" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+
+  <!-- Tube 2: '5' -->
+  <rect x="204" y="32" width="78" height="152" rx="6" ry="6" fill="url(#glass)" stroke="#5a2d00" stroke-width="1.6"/>
+  <rect x="207" y="35" width="72" height="146" rx="4" ry="4" fill="url(#haze)"/>
+  <rect x="208" y="36" width="26" height="144" rx="3" ry="3" fill="url(#shine)"/>
+  <text x="243" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff5500" opacity="0.30" filter="url(#glow)">5</text>
+  <text x="243" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff8c00" opacity="0.95">5</text>
+  <text x="243" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ffd080" opacity="0.38">5</text>
+  <circle cx="225" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="237" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="249" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="261" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+
+  <!-- Tube 3: '7' -->
+  <rect x="291" y="32" width="78" height="152" rx="6" ry="6" fill="url(#glass)" stroke="#5a2d00" stroke-width="1.6"/>
+  <rect x="294" y="35" width="72" height="146" rx="4" ry="4" fill="url(#haze)"/>
+  <rect x="295" y="36" width="26" height="144" rx="3" ry="3" fill="url(#shine)"/>
+  <text x="330" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff5500" opacity="0.30" filter="url(#glow)">7</text>
+  <text x="330" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff8c00" opacity="0.95">7</text>
+  <text x="330" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ffd080" opacity="0.38">7</text>
+  <circle cx="312" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="324" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="336" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="348" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+
+  <!-- Tube 4: '1' -->
+  <rect x="378" y="32" width="78" height="152" rx="6" ry="6" fill="url(#glass)" stroke="#5a2d00" stroke-width="1.6"/>
+  <rect x="381" y="35" width="72" height="146" rx="4" ry="4" fill="url(#haze)"/>
+  <rect x="382" y="36" width="26" height="144" rx="3" ry="3" fill="url(#shine)"/>
+  <text x="417" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff5500" opacity="0.30" filter="url(#glow)">1</text>
+  <text x="417" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff8c00" opacity="0.95">1</text>
+  <text x="417" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ffd080" opacity="0.38">1</text>
+  <circle cx="399" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="411" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="423" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="435" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+
+  <!-- Tube 5: '0' -->
+  <rect x="465" y="32" width="78" height="152" rx="6" ry="6" fill="url(#glass)" stroke="#5a2d00" stroke-width="1.6"/>
+  <rect x="468" y="35" width="72" height="146" rx="4" ry="4" fill="url(#haze)"/>
+  <rect x="469" y="36" width="26" height="144" rx="3" ry="3" fill="url(#shine)"/>
+  <text x="504" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff5500" opacity="0.30" filter="url(#glow)">0</text>
+  <text x="504" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff8c00" opacity="0.95">0</text>
+  <text x="504" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ffd080" opacity="0.38">0</text>
+  <circle cx="486" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="498" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="510" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="522" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+
+  <!-- Tube 6: '4' -->
+  <rect x="552" y="32" width="78" height="152" rx="6" ry="6" fill="url(#glass)" stroke="#5a2d00" stroke-width="1.6"/>
+  <rect x="555" y="35" width="72" height="146" rx="4" ry="4" fill="url(#haze)"/>
+  <rect x="556" y="36" width="26" height="144" rx="3" ry="3" fill="url(#shine)"/>
+  <text x="591" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff5500" opacity="0.30" filter="url(#glow)">4</text>
+  <text x="591" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff8c00" opacity="0.95">4</text>
+  <text x="591" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ffd080" opacity="0.38">4</text>
+  <circle cx="573" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="585" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="597" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="609" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+
+  <!-- Tube 7: '6' -->
+  <rect x="639" y="32" width="78" height="152" rx="6" ry="6" fill="url(#glass)" stroke="#5a2d00" stroke-width="1.6"/>
+  <rect x="642" y="35" width="72" height="146" rx="4" ry="4" fill="url(#haze)"/>
+  <rect x="643" y="36" width="26" height="144" rx="3" ry="3" fill="url(#shine)"/>
+  <text x="678" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff5500" opacity="0.30" filter="url(#glow)">6</text>
+  <text x="678" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ff8c00" opacity="0.95">6</text>
+  <text x="678" y="129" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="90" font-weight="bold" fill="#ffd080" opacity="0.38">6</text>
+  <circle cx="660" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="672" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="684" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+  <circle cx="696" cy="176" r="2.4" fill="#1e0e00" stroke="#6b3800" stroke-width="0.8"/>
+
+  <!-- Sync timestamp -->
+  <text x="373" y="208" text-anchor="middle" font-family="&quot;Courier New&quot;, Courier, monospace" font-size="7" fill="#7a4200" letter-spacing="2" opacity="0.7">LAST SYNC : 26 MAY 2026</text>
+</svg>

@@ -1,57 +1,43 @@
-<!-- ════════════════════════════════════════════════════════════════
+<!-- ════════════════════════════════════════════════════════════════════════
      FUTURE GADGET LABORATORY — MEMBER FILE
-     CLASSIFICATION: PUBLIC  ·  DIVERGENCE: 0.571046%
-     ════════════════════════════════════════════════════════════════ -->
+     CLASSIFICATION: OPEN  ·  WORLDLINE: β-0.571046%
+     ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:001a00,100:0a1a00&height=160&section=header&text=FUTURE%20GADGET%20LAB&fontSize=38&fontColor=00ff41&fontAlignY=45&desc=Laboratory%20Member%20%238%20%E2%80%94%20Ahmad&descAlignY=70&descColor=ffb347&animation=blinking&stroke=00ff41&strokeWidth=1" width="100%"/>
-
-</div>
-
-<div align="center">
-
-```
- ██████╗ ██╗██╗   ██╗███████╗██████╗  ██████╗ ███████╗███╗   ██╗ ██████╗███████╗
- ██╔══██╗██║██║   ██║██╔════╝██╔══██╗██╔════╝ ██╔════╝████╗  ██║██╔════╝██╔════╝
- ██║  ██║██║██║   ██║█████╗  ██████╔╝██║  ███╗█████╗  ██╔██╗ ██║██║     █████╗
- ██║  ██║██║╚██╗ ██╔╝██╔══╝  ██╔══██╗██║   ██║██╔══╝  ██║╚██╗██║██║     ██╔══╝
- ██████╔╝██║ ╚████╔╝ ███████╗██║  ██║╚██████╔╝███████╗██║ ╚████║╚██████╗███████╗
- ╚═════╝ ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,35:100800,100:1f0e00&height=170&section=header&text=FUTURE%20GADGET%20LAB&fontSize=40&fontColor=ff8c00&fontAlignY=45&desc=Lab%20Member%20%238%20%E2%80%94%20Ahmad&descAlignY=70&descColor=ffaa44&animation=blinking&stroke=ff6600&strokeWidth=1" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ─── DIVERGENCE METER ──────────────────────────────────────────── -->
+<!-- ─── DIVERGENCE METER ───────────────────────────────────────────────────────
+     Generated daily by GitHub Actions using a nixie-tube SVG renderer
+     inspired by TriggersTools.SteinsGate
+     Lib  → https://github.com/trigger-death/TriggersTools.SteinsGate
+     Web  → https://trigger-testing.github.io/pwa-examples/divergence-meter/
+     ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                  ◈  D I V E R G E N C E  M E T E R  ◈          ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║                                                                  ║
-  ║      ┌───┬───┬───┬───┬───┬───┬───┬───┬───┐                     ║
-  ║      │ 0 │ . │ 5 │ 7 │ 1 │ 0 │ 4 │ 6 │ % │                     ║
-  ║      └───┴───┴───┴───┴───┴───┴───┴───┴───┘                     ║
-  ║                                                                  ║
-  ║      β World Line  ·  READING STEINER : ACTIVE                  ║
-  ║      STATUS ▸  The Future Gadget Lab still stands               ║
-  ╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="assets/divergence_meter.svg" alt="Divergence Meter — 0.571046%" width="650"/>
+
+<br/><br/>
+
+> *β Worldline — Reading Steiner: **ACTIVE***
 
 </div>
 
 <br/>
 
-<!-- ─── KURISU QUOTE (auto-updated by GitHub Action on Oct 21) ────── -->
+---
+
+<!-- ─── QUOTE (auto-rotated on Oct 21 via GitHub Action) ─────────────────── -->
 <!-- QUOTE_START -->
 <div align="center">
 
-> *❝ I've only lived **20 years** but I don't want to change any of them.*
-> *They're all part of my life, even the failures. ❞*
+> *❝ I've only lived **20 years**, but I don't want to change any of them.*
+> *They're all part of my life — even the failures. ❞*
 >
 > <sub>— **Makise Kurisu** · Future Gadget Lab · Assistant Member</sub>
 
@@ -62,17 +48,17 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════════
      > whoami
-     ═══════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&width=300&lines=%3E+whoami" alt="> whoami"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF8C00&width=260&lines=%3E+whoami" alt="> whoami"/>
 
 <br/>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```
 ╔═══════════════════════════════════════════════╗
@@ -80,49 +66,50 @@
 ║  MEMBER FILE  ·  CLASSIFICATION: OPEN         ║
 ╠═══════════════════════════════════════════════╣
 ║                                               ║
-║  NAME    ▸  Ahmad                             ║
-║  ALIAS   ▸  Ahmad-Skeptical                   ║
-║  ROLE    ▸  CS Student                        ║
+║  NAME     ▸  Ahmad                            ║
+║  ALIAS    ▸  Ahmad-Skeptical                  ║
+║  HANDLE   ▸  Hououin Kyouma (self-declared)   ║
+║  ROLE     ▸  CS Student  ·  Lab Member #8     ║
 ║                                               ║
-║  MISSION ▸  Crack the code of intelligence    ║
-║             before the Organisation does      ║
+║  MISSION  ▸  Crack the algorithm of           ║
+║              intelligence before the          ║
+║              Organisation does                ║
 ║                                               ║
-║  STATUS  ▸  Grinding the ladder               ║
-║             across all worldlines             ║
+║  STATUS   ▸  Grinding across all worldlines   ║
+║  GADGET   ▸  Phone Microwave (Name TBC)       ║
 ║                                               ║
-║  GADGET  ▸  Phone Microwave (Name Subject     ║
-║             to Change) — Lab Member #8        ║
 ╠═══════════════════════════════════════════════╣
 ║  DIVERGENCE READING  ·  β-0.571046%           ║
 ╚═══════════════════════════════════════════════╝
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
 ```python
 class LabMember:
-  name   = "Ahmad"
-  number = "#8"
+    name   = "Ahmad"
+    number = "#8"
 
-  tracks = [
-    "Competitive Programming",
-    "Cybersecurity",
-    "Adversarial ML Research",
-    "Linear Algebra + Probability",
-  ]
+    tracks = [
+        "Competitive Programming",
+        "AI Security / Adversarial ML",
+        "Binary Exploitation",
+        "Linear Algebra + Probability",
+    ]
 
-  stack = {
-    "battle" : "C++",
-    "scripts": "Python",
-    "recon"  : "x64dbg / PE-Bear",
-  }
+    stack = {
+        "battle"  : "C++",
+        "scripts" : "Python",
+        "recon"   : "x64dbg · PE-Bear",
+        "research": "PyTorch · Capstone",
+    }
 
-  worldline = "β-0.571046%"
-  status    = "Reading Steiner: ON"
+    worldline       = "β-0.571046%"
+    reading_steiner = True
 
-  def greet(self):
-    return "El Psy Kongroo."
+    def greet(self):
+        return "El Psy Kongroo."
 ```
 
 </td>
@@ -131,9 +118,9 @@ class LabMember:
 
 <div align="center">
 
-![](https://img.shields.io/badge/Worldline-β--0.571046%25-00ff41?style=for-the-badge&labelColor=0a1400)
-![](https://img.shields.io/badge/Reading_Steiner-ACTIVE-ffb347?style=for-the-badge&labelColor=1a0a00)
-![](https://img.shields.io/badge/Future_Gadget_Lab-Member_%238-00ff41?style=for-the-badge&labelColor=0a1400)
+![](https://img.shields.io/badge/Worldline-β--0.571046%25-ff8c00?style=for-the-badge&labelColor=1a0800)
+![](https://img.shields.io/badge/Reading_Steiner-ACTIVE-ff6600?style=for-the-badge&labelColor=120500)
+![](https://img.shields.io/badge/Future_Gadget_Lab-Member_%238-ffaa44?style=for-the-badge&labelColor=1a0800)
 
 </div>
 
@@ -141,18 +128,203 @@ class LabMember:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     > cat interests.txt
-     ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     > ls future_gadgets/
+     ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&width=370&lines=%3E+cat+interests.txt" alt="> cat interests.txt"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF8C00&width=400&lines=%3E+ls+future_gadgets%2F" alt="> ls future_gadgets/"/>
+
+> *Every experiment shifts the worldline. These are mine.*
 
 <br/>
 
 <table>
 <tr>
 
-<!-- ── LITERATURE ─────────────────────────── -->
+<!-- ── Gadget #001 ─────────────────────────────────────────────────── -->
+<td width="33%" valign="top">
+
+```
+╔════════════════════════════╗
+║  FUTURE GADGET  #001       ║
+║  RANKSEI — ランクセイ       ║
+╠════════════════════════════╣
+║                            ║
+║  CP Analytics Dashboard    ║
+║                            ║
+║  ◈ CF / LC / AtCoder live  ║
+║  ◈ Rating timelines        ║
+║  ◈ Tag strength scoring    ║
+║  ◈ H2H comparison mode     ║
+║  ◈ Dark terminal aesthetic ║
+║                            ║
+║  Python · Streamlit        ║
+║  Plotly · Pandas           ║
+║                            ║
+║  STATUS ▸  DEPLOYED  ✓     ║
+╚════════════════════════════╝
+```
+
+[![Launch](https://img.shields.io/badge/→_Launch-ranksei.streamlit.app-ff8c00?style=flat-square&labelColor=1a0800)](https://ranksei.streamlit.app)
+[![Source](https://img.shields.io/badge/→_Source-GitHub-ff6600?style=flat-square&labelColor=1a0800)](https://github.com/Ahmad-Rzx/RankSei-CP-Analytics-Dashboard)
+
+</td>
+
+<!-- ── Gadget #002 ─────────────────────────────────────────────────── -->
+<td width="33%" valign="top">
+
+```
+╔════════════════════════════╗
+║  FUTURE GADGET  #002       ║
+║  KEIRO — 径路               ║
+╠════════════════════════════╣
+║                            ║
+║  CP Execution              ║
+║  Replay Engine             ║
+║                            ║
+║  ◈ Instrument C++ / Python ║
+║  ◈ Record exec traces      ║
+║  ◈ Replay as interactive   ║
+║    visualizations          ║
+║                            ║
+║  C++ · Python              ║
+║  FastAPI · React           ║
+║                            ║
+║  STATUS ▸  PHASE 1 DONE    ║
+╚════════════════════════════╝
+```
+
+[![Source](https://img.shields.io/badge/→_Source-Coming_Soon-555?style=flat-square&labelColor=1a0800)](https://github.com/Ahmad-Rzx)
+
+</td>
+
+<!-- ── Gadget #003 ─────────────────────────────────────────────────── -->
+<td width="33%" valign="top">
+
+```
+╔════════════════════════════╗
+║  FUTURE GADGET  #003       ║
+║  MALSIGHT                  ║
+╠════════════════════════════╣
+║                            ║
+║  AI-Powered Static         ║
+║  Malware Analyzer          ║
+║                            ║
+║  ◈ PE parsing + entropy    ║
+║  ◈ XGBoost (EMBER 2018)    ║
+║  ◈ Llama 3.2 via Ollama    ║
+║  ◈ SSE streaming           ║
+║  ◈ Fully local pipeline    ║
+║                            ║
+║  Python · FastAPI          ║
+║  React · Capstone          ║
+║                            ║
+║  STATUS ▸  IN QUEUE        ║
+╚════════════════════════════╝
+```
+
+[![Source](https://img.shields.io/badge/→_Source-Coming_Soon-555?style=flat-square&labelColor=1a0800)](https://github.com/Ahmad-Rzx)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     > cat research.log
+     ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF8C00&width=360&lines=%3E+cat+research.log" alt="> cat research.log"/>
+
+> *Mapping the worldlines of artificial intelligence — and breaking them.*
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════════════╗
+║  🔬  A D V E R S A R I A L   M L        ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  Reading order:                          ║
+║                                          ║
+║  ✓  Software 2.0        — Karpathy       ║
+║  ✓  A Few Useful Things — Domingos       ║
+║  ◉  Intriguing Props.   — Szegedy 2014   ║  ← now
+║  ○  FGSM Attack         — Goodfellow 15  ║
+║  ○  Outside the Closed  — Sommer 2010    ║
+║  ○  PGD Attack          — Madry 2018     ║
+║  ○  SoK: Adv. ML        — Li 2023        ║
+║                                          ║
+║  TARGET UNIVERSITIES                     ║
+║  ├─ TU Munich  (Günnemann / Schiele)     ║
+║  ├─ KIT        (Holz)                    ║
+║  ├─ TU Delft   (Verwer)                  ║
+║  ├─ KTH                                  ║
+║  └─ TU Berlin                            ║
+║                                          ║
+║  FUNDING ▸ DAAD  ·  M.Phil / M.Sc       ║
+╚══════════════════════════════════════════╝
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════════════╗
+║  ⚔️   G R I N D   L O G                 ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  COMPETITIVE PROGRAMMING                 ║
+║  ├─ Handle  : Ahmad-Skeptical (CF)       ║
+║  ├─ Language: C++                        ║
+║  ├─ Spine   : USACO Guide Bronze         ║
+║  └─ Target  : CF 1900+  ·  ICPC Regional ║
+║                                          ║
+║  MATHEMATICS                             ║
+║  ├─ Linear Algebra  (3B1B + Strang)      ║
+║  └─ Probability     (Stat 110 / Blitz.)  ║
+║                                          ║
+║  SECURITY                                ║
+║  ├─ pwn.college                          ║
+║  ├─ ETW / WinAPI                         ║
+║  └─ Binary Exploitation                  ║
+║                                          ║
+║  BLOGGING ▸ Medium  (AI · Security)      ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     > cat interests.txt
+     ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF8C00&width=380&lines=%3E+cat+interests.txt" alt="> cat interests.txt"/>
+
+<br/>
+
+<table>
+<tr>
+
+<!-- ── Literature ──────────────────────────────────────── -->
 <td width="33%" valign="top">
 
 ```
@@ -171,76 +343,63 @@ class LabMember:
 ║                            ║
 ╠════════════════════════════╣
 ║                            ║
-║  ❝ But who am I without    ║
-║    nostalgia and           ║
-║    melancholy ❞            ║
-║                            ║
-║       — Dostoevsky         ║
+║  ❝ I write poetry between  ║
+║    proof-by-inductions ❞   ║
 ║                            ║
 ╚════════════════════════════╝
 ```
 
-[![Dostoevsky](https://img.shields.io/badge/Currently-CrimeAndPunishment-00ff41?style=flat-square&labelColor=0a1400)](https://www.planetebook.com/free-ebooks/crime-and-punishment.pdf_(Dostoevsky_novel))
-
 </td>
 
-<!-- ── COMPETITIVE PROGRAMMING ─────────────────── -->
+<!-- ── Gaming ───────────────────────────────────────────── -->
 <td width="33%" valign="top">
 
 ```
 ╔════════════════════════════╗
-║  ⚔️   C O M P . P R O G . ║
+║  🎮  G A M E S             ║
 ╠════════════════════════════╣
 ║                            ║
-║  C++         ███████████░  ║
-║  Two Pointers████████████  ║
-║  Binary Srch ████████████  ║
-║  Greedy      ██████░░░░░░  ║
-║  DP          ████░░░░░░░░  ║
-║  Graphs      ████░░░░░░░░  ║
+║  RDR2        ████████████  ║
+║  Silent Hill ███████████░  ║
+║  Shadow/Col. ██████████░░  ║
+║  GTA Series  █████████░░░  ║
+║  COD MW      ████████░░░░  ║
+║  NFS         ███████░░░░░  ║
 ║                            ║
 ╠════════════════════════════╣
 ║                            ║
-║  ❝ The universe conspires  ║
-║    against those without   ║
-║    a plan. Obtain one. ❞   ║
-║                            ║
-║    — Hououin Kyouma        ║
+║  ❝ Every open world is     ║
+║    a divergence waiting    ║
+║    to happen ❞             ║
 ║                            ║
 ╚════════════════════════════╝
 ```
 
-[![CF](https://img.shields.io/badge/Codeforces-Ahmad--Skeptical-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ahmad-Skeptical)
-
 </td>
 
-<!-- ── CYBERSECURITY ─────────────────────── -->
+<!-- ── Cybersecurity ────────────────────────────────────── -->
 <td width="33%" valign="top">
 
 ```
 ╔════════════════════════════╗
-║  🔐 C Y B E R S E C U R .  ║
+║  🔐  S E C U R I T Y      ║
 ╠════════════════════════════╣
 ║                            ║
 ║  Binary Exp  ██████░░░░░░  ║
-║  TryHackMe   ███████░░░░░  ║
 ║  ETW/WinAPI  ████░░░░░░░░  ║
 ║  HackTheBox  █████░░░░░░░  ║
+║  TryHackMe   ███████░░░░░  ║
 ║  Adversar.ML ████░░░░░░░░  ║
 ║  pwn.college ░░░░░░░░░░░░  ║
 ║                            ║
 ╠════════════════════════════╣
 ║                            ║
 ║  ❝ The Organisation is     ║
-║    watching. So I          ║
-║    watch back. ❞           ║
-║                            ║
-║    — Hououin Kyouma        ║
+║    watching.               ║
+║    So I watch back. ❞      ║
 ║                            ║
 ╚════════════════════════════╝
 ```
-
-[![THM](https://img.shields.io/badge/TryHackMe-Active-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ahmadm2clan)
 
 </td>
 
@@ -251,17 +410,17 @@ class LabMember:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════════
      STATS
-     ═══════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 ## `> query --github-stats`
 
 <div align="center">
 
-
-
-<img src="https://streak-stats.demolab.com?user=Ahmad-Rzx&theme=transparent&background=030f03&ring=00ff41&fire=ffb347&currStreakLabel=00ff41&sideLabels=99cc99&currStreakNum=00ff41&sideNums=99cc99&dates=3a5a3a&border=1a3a1a" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Rzx&show_icons=true&theme=dark&bg_color=0a0500&title_color=ff8c00&icon_color=ff6600&text_color=ffcc77&border_color=4a2200" height="165"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Ahmad-Rzx&theme=transparent&background=0a0500&ring=ff8c00&fire=ff4400&currStreakLabel=ff8c00&sideLabels=ffaa44&currStreakNum=ff8c00&sideNums=ffaa44&dates=9a6030&border=4a2200" height="165"/>
 
 </div>
 
@@ -269,9 +428,9 @@ class LabMember:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════════
      PHILOSOPHY
-     ═══════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 ## `> philosophy`
 
@@ -279,6 +438,7 @@ class LabMember:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
 ║   I read Kafka at 3 AM.  I debug at midnight.                            ║
 ║   I write poetry between proof-by-inductions.                            ║
 ║   Every failure is a D-Mail I can't send back —                          ║
@@ -289,7 +449,7 @@ class LabMember:
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║                       El Psy Kongroo.                                    ║
+║                        El Psy Kongroo.                                   ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -300,14 +460,28 @@ class LabMember:
 
 ---
 
+<!-- ─── LINKS ──────────────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/-Codeforces-030f03?style=for-the-badge&logo=codeforces&logoColor=00ff41&labelColor=030f03)](https://codeforces.com/profile/Ahmad-Skeptical)
-[![GitHub](https://img.shields.io/badge/-GitHub-030f03?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=030f03)](https://github.com/Ahmad-Rzx)
-[![RANKSEI](https://img.shields.io/badge/-RANKSEI_ランクセイ-030f03?style=for-the-badge&logo=streamlit&logoColor=ffb347&labelColor=030f03)](https://ranksei.streamlit.app)
+[![Codeforces](https://img.shields.io/badge/-Ahmad--Skeptical-ff8c00?style=for-the-badge&logo=codeforces&logoColor=ffcc77&labelColor=1a0800)](https://codeforces.com/profile/Ahmad-Skeptical)
+[![GitHub](https://img.shields.io/badge/-Ahmad--Rzx-ff8c00?style=for-the-badge&logo=github&logoColor=ffcc77&labelColor=1a0800)](https://github.com/Ahmad-Rzx)
+[![RANKSEI](https://img.shields.io/badge/-RANKSEI_ランクセイ-ff6600?style=for-the-badge&logo=streamlit&logoColor=ffcc77&labelColor=1a0800)](https://ranksei.streamlit.app)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-ff6600?style=for-the-badge&logo=tryhackme&logoColor=ffcc77&labelColor=1a0800)](https://tryhackme.com/p/ahmadm2clan)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1400,50:001a00,100:000000&height=130&section=footer&text=Reading+Steiner+%E2%80%94+Active&fontSize=15&fontColor=00ff41&animation=fadeIn" width="100%"/>
+<sub>
+Divergence meter powered by
+<a href="https://github.com/trigger-death/TriggersTools.SteinsGate">TriggersTools.SteinsGate</a>
+·
+<a href="https://trigger-testing.github.io/pwa-examples/divergence-meter/">Web Tool</a>
+·
+Regenerated daily via GitHub Actions
+</sub>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f0e00,50:100800,100:000000&height=130&section=footer&text=Reading+Steiner+%E2%80%94+Active&fontSize=16&fontColor=ff8c00&animation=fadeIn" width="100%"/>
